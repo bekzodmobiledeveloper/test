@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Github  8.2</string>
+    <string name="basic">Use Googles Location Services?</string>
+    <string name="basic_agree">AGREE</string>
+    <string name="basic_disagree">DISAGREE</string>
+    <string name="basic_message">When you turn on Location History, you may see a number of benefits across Google products and services, including personalized maps,
+                        recommendations based on places you’ve visited, help finding your phone, real-time traffic updates about your commute, and more useful ads.</string>
+
+    <string name="choice">Social Networks</string>
+
+
+
+</resources>
